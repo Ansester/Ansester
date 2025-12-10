@@ -46,9 +46,9 @@ Statistical modeling application with embedded Looker Studio dashboard for advan
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashmit-mukherjee) <!-- Update with your actual LinkedIn -->
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com) <!-- Update with your actual email -->
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) <!-- Update with your actual portfolio if available -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashmit-mukherjee/)
+- 📧 Email: [asm8879@nyu.edu](mailto:asm8879@nyu.edu)
+- 📍 Location: UAE
 
 ---
 
